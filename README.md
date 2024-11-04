@@ -41,6 +41,9 @@ Here are some of the main outcomes of the module, including collaborative discus
 
 6. **Excel workbooks and exercises on statistical analysis**
 
+7. **Project Proposal Presentation**
+   [See the presentation here] (https://github.com/LisaDuschek/e-portfolio-research-methods-and-professional-practices/blob/main/research%20proposal%20presentation_LisaDuschek(1).pptx)
+
 ---
 
 Feel free to explore the links above to learn more about my experiences and contributions throughout this module!
